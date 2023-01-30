@@ -1,0 +1,8 @@
+Buat Folder Latihan2
+Buat File index.html pada folder latihan 2
+Buatlah Struktur Dasar HTML
+Buatlah Judul Latihan 2
+Tambahkan atrribut bgcolor pada body
+isi parameter warna merah pada attribut tersebut
+Buatlah Tag H1 dengan Isi Ganesa Guru
+Beri Warna Kuning Untuk H1
